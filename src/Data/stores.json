@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"BDSI",
+        "label":"Bianca test example",
+        "local":"search_upload/Data/all.csv",
+        "online":null
+    },
+    {
+        "id":2,
+        "name":"ImageTest",
+        "label":"Image Test for Upload",
+        "local":"search_upload/Data/all.csv",
+        "online":null
+    },
+    {
+        "id":3,
+        "name":"TetraScience",
+        "label":"TetraScience example",
+        "local":"search_upload/Data/DFTetrascience-metadata.csv",
+        "online":null
+    },
+    {
+        "id":4,
+        "name":"omeroplus",
+        "label":"Image data example",
+        "local":"search_upload/Data/all.csv",
+        "online":null
+    },
+    {
+        "id":5,
+        "name":"AWS",
+        "label":"AWS metadata store",
+        "local":null,
+        "online":"rndbdsimetadatalocation"
+    }
+]

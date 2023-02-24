@@ -1,0 +1,13 @@
+pandas
+uvicorn
+sqlalchemy
+fastapi
+requests
+python-jose
+cryptography
+python-multipart
+boto3
+pre-commit
+mypy
+pylint
+mypy
